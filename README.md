@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0B1F3A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+George+Malimba+%F0%9F%91%8B;Full-Stack+%26+Mobile+Engineer;Building+payments+that+cross+borders+%F0%9F%8C%8D;Ghana+%E2%86%94+World" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0B1F3A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+George+Malimba+%F0%9F%91%8B;Full-Stack+%26+Mobile+Engineer;Systems+that+move+money%2C+data%2C+and+trust;Ghana+%E2%86%94+World" alt="Typing intro" />
 
 <br/>
 
@@ -13,16 +13,15 @@
 
 ### The short version
 
-I'm a **full-stack engineer** who builds products end-to-end — mobile apps, web dashboards, and backend services — with a current obsession: **making cross-border payments feel local**.
+I'm a **full-stack engineer** who builds products end-to-end — mobile apps, web dashboards, and backend services — across domains where **reliability and discretion matter**.
 
-Most of my recent energy goes into **[TouriPay](https://github.com/malimba/touripay-frontend)** — a fintech stack where tourists pay Ghanaian merchants in seconds (Flutter · Django · Go · MoMo · KYC · live deployments on Railway & Render).
-
-The longer version? I don't just write code — I **ship systems**: auth, wallets, webhooks, identity verification, and the unglamorous glue that keeps money moving when APIs disagree.
+I've worked on **financial systems**, **blockchain-adjacent platforms**, **real estate & property tooling**, **e-commerce**, **education tech**, and **internal business systems** — mostly under NDA or in private repos, so what you see here is the stack and the shape of the work, not client deliverables.
 
 ```diff
-+ Based in Ghana · building for global travelers & local merchants
++ Based in Ghana · comfortable building for local and global users
 + Stack-agnostic, product-first — pick the right tool, then make it reliable
-+ Comfortable solo or leading — from schema design to App Store builds
++ Used to shipping alone or with a team — from schema design to App Store builds
++ Client work stays confidential — public GitHub is learning, experiments & OSS
 - Not interested in resume-driven development or code that never leaves localhost
 ```
 
@@ -32,7 +31,7 @@ The longer version? I don't just write code — I **ship systems**: auth, wallet
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=malimba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1F3A&title_color=38BDF8&text_color=E2E8F0&icon_color=F59E0B&count_private=true&include_all_commits=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=malimba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1F3A&title_color=38BDF8&text_color=E2E8F0&icon_color=F59E0B" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-streak-stats.demolab.com/?user=malimba&theme=tokyonight&hide_border=true&background=0B1F3A&ring=38BDF8&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=E2E8F0" alt="GitHub streak" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malimba&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1F3A&title_color=38BDF8&text_color=E2E8F0&langs_count=8" alt="Top languages" height="165"/>
 
@@ -75,80 +74,80 @@ The longer version? I don't just write code — I **ship systems**: auth, wallet
 
 <br/>
 
-**Backend & APIs** · Go (Chi, GORM) · Python · Django · Java · Spring Boot · REST · JWT · Webhooks · HMAC signing  
+**Backend & APIs** · Go · Python · Django · Java · Spring Boot · REST · GraphQL · JWT · Webhooks · event-driven flows  
 
-**Mobile & Web** · Flutter · Dart · Provider · GoRouter · WebView integrations · Responsive Django templates  
+**Mobile & Web** · Flutter · Dart · React-adjacent JS · responsive web · admin dashboards · consumer-facing apps  
 
-**Data & Infra** · PostgreSQL · Neon · SQLite · Railway · Render · WhiteNoise · env-driven config  
+**Data & Infra** · PostgreSQL · SQLite · Redis · Docker · cloud deploy · env-driven config · observability basics  
 
-**Fintech & Integrations** · Sumsub KYC · Paystack · MTN MoMo · KotaniPay · FX rates · wallet ledgers  
+**Domain experience** · payment rails · wallet logic · KYC/identity flows · ledger-style transactions · FX & settlements  
 
-**Practices** · Git · CI-minded workflows · integration tests · microservice boundaries · accessibility (a11y)
+**Practices** · Git · code review · integration tests · service boundaries · accessibility · security-minded defaults
 
 ---
 
-### Featured work
+### Domains I've worked in
+
+> High-level only — client names, architectures, and repo details stay private.
 
 <table>
 <tr>
 <td width="50%">
 
-#### 💳 [TouriPay](https://github.com/malimba/touripay-frontend)
-*Cross-border payments for tourists & Ghanaian merchants*
-
-`Flutter` `Go` `Django` `PostgreSQL` `Sumsub` `MoMo`
-
-Live financial engine, merchant web app, tourist mobile app, KYC flows, and production deployments.
+#### 💳 Financial systems
+Payment flows, wallets, merchant tooling, reconciliation, and third-party gateway integrations — mobile, web, and backend services in production.
 
 </td>
 <td width="50%">
 
-#### 🎵 [GeeManMusic](https://github.com/malimba/GeeManMusic)
-*Minimal secure music player*
-
-`Java` `Spring Boot` `Vanilla JS`
-
-Spring Boot backend with a clean, security-conscious frontend — inspired by Ghanaian legend Gemann.
+#### ⛓️ Blockchain & crypto-adjacent
+Smart-contract-facing apps, wallet connectivity, on/off-ramp flows, and backend services that sit between users and chain infrastructure.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 🤖 [AdaBot](https://github.com/malimba/AdaBot)
-*Adaptive learning Telegram bot*
-
-`Python` `Telegram API`
-
-Bot-driven adaptive learning — conversational UX meets structured content delivery.
+#### 🏠 Real estate & property
+Listing platforms, tenant/owner portals, search & filters, document workflows, and ops dashboards for property businesses.
 
 </td>
 <td width="50%">
 
-#### 🗳️ [SecuredVotingSystem](https://github.com/malimba/SecuredVotingSystem)
-*Election platform for AIS SHS3*
+#### 🛒 Commerce & marketplaces
+Catalogues, checkout, inventory, order pipelines, and vendor-facing tools — web and mobile.
 
-`Python`
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Secured voting system built for real school elections — auth, integrity, and trust by design.
+#### 🎓 Education & community
+Learning platforms, bots, voting/election tooling, and campus or community-facing web apps.
+
+</td>
+<td width="50%">
+
+#### 🏢 Internal & line-of-business
+CRMs, reporting, automation scripts, and bespoke tools that replace spreadsheets with something maintainable.
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/malimba?tab=repositories"><img src="https://img.shields.io/badge/View_all_repos-25_public-0B1F3A?style=for-the-badge&logo=github&logoColor=white" alt="All repos"/></a>
+  <a href="https://github.com/malimba?tab=repositories"><img src="https://img.shields.io/badge/Public_repos-Experiments_%26_learning-0B1F3A?style=for-the-badge&logo=github&logoColor=white" alt="Public repos"/></a>
 </p>
 
 ---
 
-### What I'm exploring now
+### What I'm focused on lately
 
 ```text
-▸ Hardening production fintech flows (KYC webhooks, idempotency, cold-start resilience)
-▸ Flutter + WebView SDK integrations (Sumsub, OAuth, deep links)
-▸ Go service design — clean boundaries between engine, web app, and mobile client
-▸ Making financial products accessible (read-aloud KYC, larger text, inclusive UX)
+▸ Production-grade financial & payment backends (auth, webhooks, idempotency)
+▸ Flutter + native WebView integrations for regulated third-party SDKs
+▸ Clean service boundaries between mobile clients, web apps, and engines
+▸ Accessible UX — larger text, read-aloud flows, inclusive onboarding
 ```
 
 ---
@@ -171,7 +170,7 @@ Secured voting system built for real school elections — auth, integrity, and t
 
 <br/><br/>
 
-*"Ship the boring parts right — payments, auth, and error messages — and the product feels magic."*
+*"Good engineering is often invisible — especially when clients need it to stay that way."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=100&section=footer&fontSize=16&fontColor=FFFFFF&animation=twinkling" alt="Footer wave" />
 
