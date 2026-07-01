@@ -158,7 +158,7 @@ CRMs, reporting, automation scripts, and bespoke tools that replace spreadsheets
 
 [![GitHub](https://img.shields.io/badge/GitHub-malimba-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malimba)
 [![Email](https://img.shields.io/badge/Email-malimbageorgeyandanbon@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malimbageorgeyandanbon@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malimba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-billa-yandanbon/)
 
 </div>
 
