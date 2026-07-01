@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0B1F3A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+George+Malimba+%F0%9F%91%8B;Full-Stack+%26+Mobile+Engineer;Systems+that+move+money%2C+data%2C+and+trust;Ghana+%E2%86%94+World" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0B1F3A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Malimba+%F0%9F%91%8B;Full-Stack+%26+Mobile+Engineer;Systems+that+move+money%2C+data%2C+and+trust;Ghana+%E2%86%94+World" alt="Typing intro" />
 
 <br/>
 
