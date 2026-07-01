@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0B1F3A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Malimba+%F0%9F%91%8B;Full-Stack+%26+Mobile+Engineer;Systems+that+move+money%2C+data%2C+and+trust;Ghana+%E2%86%94+World" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0B1F3A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Malimba+%F0%9F%91%8B;Full-Stack+%26+Mobile+Engineer;STEM+%E2%86%92+Systems+that+ship;Build+%C2%B7+Ship+%C2%B7+Iterate" alt="Typing intro" />
 
 <br/>
 
@@ -13,17 +13,39 @@
 
 ### The short version
 
-I'm a **full-stack engineer** who builds products end-to-end — mobile apps, web dashboards, and backend services — across domains where **reliability and discretion matter**.
+I'm a **full-stack engineer** — mobile, web, and backend — with a STEM background and a bias toward **systems that hold up in production**.
 
-I've worked on **financial systems**, **blockchain-adjacent platforms**, **real estate & property tooling**, **e-commerce**, **education tech**, and **internal business systems** — mostly under NDA or in private repos, so what you see here is the stack and the shape of the work, not client deliverables.
+Most of what I've shipped lives in **private repos** (by choice, contract, or quiet launch). This profile is the public layer: stack, stats, and the domains — not the full story.
 
-```diff
-+ Based in Ghana · comfortable building for local and global users
-+ Stack-agnostic, product-first — pick the right tool, then make it reliable
-+ Used to shipping alone or with a team — from schema design to App Store builds
-+ Client work stays confidential — public GitHub is learning, experiments & OSS
-- Not interested in resume-driven development or code that never leaves localhost
-```
+<table>
+<tr>
+<td width="50%">
+
+**`// how I work`**
+
+`STEM-trained` · problem-first, not hype-first  
+`Stack-agnostic` · right tool, then make it reliable  
+`End-to-end` · schema design → App Store / deploy  
+`Solo or squad` · comfortable either way  
+
+</td>
+<td width="50%">
+
+**`// what you'll find here`**
+
+`Public GitHub` · experiments, learning, OSS  
+`Private remotes` · where most production work lives  
+`No fluff` · ship real software or don't ship  
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STEM--trained-Engineer-0B1F3A?style=for-the-badge&labelColor=132B4E" alt="STEM"/>
+  <img src="https://img.shields.io/badge/Focus-Production_systems-38BDF8?style=for-the-badge&labelColor=0B1F3A" alt="Production"/>
+  <img src="https://img.shields.io/badge/Public_slice-Lab_%26_learning-F59E0B?style=for-the-badge&labelColor=0B1F3A" alt="Public slice"/>
+</p>
 
 ---
 
@@ -88,7 +110,9 @@ I've worked on **financial systems**, **blockchain-adjacent platforms**, **real 
 
 ### Domains I've worked in
 
-> High-level only — client names, architectures, and repo details stay private.
+<p align="center">
+  <sub>🌒 <b>Most of this work lives in private repos</b> — the interesting stuff rarely gets a public <code>git push</code>. What follows is the shape of the work, not a portfolio dump.</sub>
+</p>
 
 <table>
 <tr>
@@ -170,7 +194,7 @@ CRMs, reporting, automation scripts, and bespoke tools that replace spreadsheets
 
 <br/><br/>
 
-*"Good engineering is often invisible — especially when clients need it to stay that way."*
+*"The best work often never hits the public timeline — and that's usually by design."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=100&section=footer&fontSize=16&fontColor=FFFFFF&animation=twinkling" alt="Footer wave" />
 
