@@ -59,6 +59,20 @@ Most of what I've shipped lives in **private repos** (by choice, contract, or qu
 
 </div>
 
+### 🔥 Contribution streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=malimba&theme=tokyonight&hide_border=true&background=0B1F3A&ring=38BDF8&fire=F59E0B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=E2E8F0&border_radius=10&stroke=FFFFFF" alt="Contribution streak — current and longest" width="520"/>
+
+</div>
+
+| | Streak | Detail |
+|:---:|:---:|---|
+| 🔥 | **Current** | Active daily contribution streak *(updates live via card above)* |
+| 🏆 | **Longest** | **15 days** · Dec 2020 → Jan 2021 |
+| 📈 | **All-time** | **3,200+** contributions on GitHub since Nov 2018 |
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=malimba&theme=tokyo-night&hide_border=true&bg_color=0B1F3A&color=38BDF8&line=F59E0B&point=FFFFFF&area=true" alt="Contribution graph" />
@@ -79,14 +93,18 @@ Most of what I've shipped lives in **private repos** (by choice, contract, or qu
 | **C** | Strong | `██████████████░░░░░░` **70%** |
 | **C++** | Strong | `█████████████░░░░░░░` **68%** |
 | **JavaScript / TypeScript** | Strong | `██████████████░░░░░░` **70%** |
+| **Express.js / Node** | Strong | `██████████████░░░░░░` **70%** |
+| **Machine Learning** | Strong | `█████████████░░░░░░░` **68%** |
+| **Deep Learning** | Strong | `████████████░░░░░░░░` **65%** |
+| **NumPy / SciPy** | Strong | `█████████████░░░░░░░` **68%** |
 | **Bash / Shell** | Strong | `█████████████░░░░░░░` **68%** |
-| **PostgreSQL / SQL** | Strong | `██████████████░░░░░░` **70%** |
+| **PostgreSQL / MySQL** | Strong | `██████████████░░░░░░` **70%** |
 | **HTML / CSS / UI** | Strong | `██████████████░░░░░░` **70%** |
+| **Docker / CI/CD** | Strong | `█████████████░░░░░░░` **68%** |
 | **Assembly** | Familiar | `███████████░░░░░░░░░` **58%** |
 | **PHP** | Working | `██████████░░░░░░░░░░` **50%** |
-| **Cloud & Deploy** | Growing | `████████████░░░░░░░░` **60%** |
 
-<sub>Bars reflect day-to-day confidence — not LeetCode rank. C, C++, Bash, and Assembly often don't appear in GitHub language stats (private repos, coursework, systems work).</sub>
+<sub>Bars reflect day-to-day confidence — not LeetCode rank. Many tools (NumPy, Express, ML stack, Railway/Render) show up in private repos and don't always appear in public language stats.</sub>
 
 ---
 
@@ -94,23 +112,25 @@ Most of what I've shipped lives in **private repos** (by choice, contract, or qu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,bash,go,python,java,dart,flutter,django,js,ts,html,css,postgres,docker,git,github,linux,figma&perline=9" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=c,cpp,bash,go,python,java,dart,flutter,django,express,nodejs,npm,js,ts,html,css,mysql,postgres,docker,githubactions,postman,tensorflow,pytorch,git,github,linux,figma&perline=10" alt="Tech stack icons" />
 
 </div>
 
 <br/>
 
-**Systems & low-level** · C · C++ · Bash · Assembly · memory & performance intuition · scripting & automation  
+**Systems & low-level** · C · C++ · Bash · Assembly · Windows Terminal · scripting & automation  
 
-**Backend & APIs** · Go · Python · Django · Java · Spring Boot · REST · GraphQL · JWT · Webhooks · event-driven flows  
+**Backend & APIs** · Go · Python · Django · **Express.js** · Java · Spring Boot · REST · JWT · Webhooks · **Postman**  
 
-**Mobile & Web** · Flutter · Dart · React-adjacent JS · responsive web · admin dashboards · consumer-facing apps  
+**Mobile & Web** · Flutter · Dart · React-adjacent JS · responsive web · admin dashboards · **npm**  
 
-**Data & Infra** · PostgreSQL · SQLite · Redis · Docker · cloud deploy · env-driven config · observability basics  
+**Data & ML** · **NumPy** · **SciPy** · **machine learning** · **deep learning** · TensorFlow / PyTorch-adjacent workflows  
 
-**Domain experience** · payment rails · wallet logic · KYC/identity flows · ledger-style transactions · FX & settlements  
+**Data & Infra** · PostgreSQL · **MySQL** · SQLite · Redis · **Docker** · **GitHub Actions** · **Railway** · **Render** · env-driven deploy  
 
-**Practices** · Git · code review · integration tests · service boundaries · accessibility · security-minded defaults
+**Testing** · pytest · integration tests · **Mockito** (Java) · smoke tests in CI  
+
+**Practices** · Git · code review · service boundaries · accessibility · security-minded defaults
 
 ---
 
@@ -178,6 +198,7 @@ CRMs, reporting, automation scripts, and bespoke tools that replace spreadsheets
 ▸ Flutter + native WebView integrations for regulated third-party SDKs
 ▸ Clean service boundaries between mobile clients, web apps, and engines
 ▸ Accessible UX — larger text, read-aloud flows, inclusive onboarding
+▸ LeetCode practice — algorithms & data structures (see profile below)
 ```
 
 ---
@@ -187,10 +208,17 @@ CRMs, reporting, automation scripts, and bespoke tools that replace spreadsheets
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-malimba-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malimba)
+[![LeetCode](https://img.shields.io/badge/LeetCode-malimba-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/malimba/)
 [![Email](https://img.shields.io/badge/Email-malimbageorgeyandanbon@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malimbageorgeyandanbon@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-billa-yandanbon/)
 
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_Terminal-CLI-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Windows Terminal"/>
+  <img src="https://img.shields.io/badge/Railway-Deploy-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+  <img src="https://img.shields.io/badge/Render-Deploy-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+</p>
 
 <br/>
 
