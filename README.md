@@ -76,13 +76,17 @@ Most of what I've shipped lives in **private repos** (by choice, contract, or qu
 | **Flutter / Dart** | Production | `████████████████░░░░` **80%** |
 | **Django / REST APIs** | Production | `███████████████░░░░░` **75%** |
 | **Java / Spring** | Strong | `██████████████░░░░░░` **70%** |
+| **C** | Strong | `██████████████░░░░░░` **70%** |
+| **C++** | Strong | `█████████████░░░░░░░` **68%** |
 | **JavaScript / TypeScript** | Strong | `██████████████░░░░░░` **70%** |
+| **Bash / Shell** | Strong | `█████████████░░░░░░░` **68%** |
 | **PostgreSQL / SQL** | Strong | `██████████████░░░░░░` **70%** |
 | **HTML / CSS / UI** | Strong | `██████████████░░░░░░` **70%** |
+| **Assembly** | Familiar | `███████████░░░░░░░░░` **58%** |
 | **PHP** | Working | `██████████░░░░░░░░░░` **50%** |
 | **Cloud & Deploy** | Growing | `████████████░░░░░░░░` **60%** |
 
-<sub>Bars reflect day-to-day confidence shipping real features — not LeetCode rank.</sub>
+<sub>Bars reflect day-to-day confidence — not LeetCode rank. C, C++, Bash, and Assembly often don't appear in GitHub language stats (private repos, coursework, systems work).</sub>
 
 ---
 
@@ -90,11 +94,13 @@ Most of what I've shipped lives in **private repos** (by choice, contract, or qu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,python,java,dart,flutter,django,js,ts,html,css,postgres,docker,git,github,linux,figma&perline=8" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=c,cpp,bash,go,python,java,dart,flutter,django,js,ts,html,css,postgres,docker,git,github,linux,figma&perline=9" alt="Tech stack icons" />
 
 </div>
 
 <br/>
+
+**Systems & low-level** · C · C++ · Bash · Assembly · memory & performance intuition · scripting & automation  
 
 **Backend & APIs** · Go · Python · Django · Java · Spring Boot · REST · GraphQL · JWT · Webhooks · event-driven flows  
 
